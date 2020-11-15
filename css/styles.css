@@ -481,7 +481,7 @@ figcaption{
 .row_2{
   display: grid;
   grid-template-columns: 1fr;
-  padding-left: 50%;
+  padding-left: 60%;
 
 }
 
